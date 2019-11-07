@@ -1,7 +1,4 @@
 #include <iostream>
-#include <algorithm>
-#include <deque>
-#include <vector>
 
 using namespace std;
 
