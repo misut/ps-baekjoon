@@ -1,3 +1,5 @@
+# 2739. 구구단
+
 if __name__ == "__main__":
     number = int(input())
 

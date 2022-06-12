@@ -1,3 +1,5 @@
+// 2739. 구구단
+
 use std::io;
 
 fn main() {
