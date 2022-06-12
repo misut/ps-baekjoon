@@ -1,9 +1,0 @@
-{
-    "crates": [
-        {
-            "root_module": "problems/2739/main.rs",
-            "edition": "2018",
-            "deps": []
-        }
-    ]
-}
