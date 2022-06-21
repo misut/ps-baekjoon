@@ -39,6 +39,6 @@ fn main() {
     solve(&bulks, &mut ranks);
 
     for idx in 0..trial {
-        print!("{rank} ", rank = ranks[idx]);
+        print!("{} ", ranks[idx]);
     }
 }
