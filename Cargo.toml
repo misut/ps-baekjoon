@@ -1,4 +1,8 @@
 [[bin]]
+name = "2667"
+path = "problems/2667/main.rs"
+
+[[bin]]
 name = "2739"
 path = "problems/2739/main.rs"
 
