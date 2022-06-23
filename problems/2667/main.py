@@ -8,7 +8,7 @@ Position = tuple[int, int]
 
 
 def generate_candidates(
-    pos: tuple[int, int], board: dict[Position, int], visited: set[Position]
+    pos: Position, board: dict[Position, int], visited: set[Position]
 ) -> list[Position]:
     candidates = [
         (pos[0] - 1, pos[1]),
@@ -25,7 +25,7 @@ def generate_candidates(
 
 
 def find_village(
-    pos: tuple[int, int], board: dict[Position, int], visited: set[Position]
+    pos: Position, board: dict[Position, int], visited: set[Position]
 ) -> list[Position]:
     n = len(board)
     candidates = [pos]
