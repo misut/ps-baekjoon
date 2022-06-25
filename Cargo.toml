@@ -10,6 +10,10 @@ path = "problems/2739/main.rs"
 name = "7568"
 path = "problems/7568/main.rs"
 
+[[bin]]
+name = "7576"
+path = "problems/7576/main.rs"
+
 [package]
 name = "ps-baekjoon"
 version = "0.1.0"
