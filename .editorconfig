@@ -8,8 +8,5 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
-[*.{c, h, cpp, hpp}]
-indent_size = 8
-
-[*.{py, rs}]
+[*.{c,cpp,h,hpp,py,rs}]
 indent_size = 4
