@@ -1,8 +1,6 @@
 # 7562. 나이트의 이동
 
-import math
 import sys
-import time
 from collections import deque
 
 Vec2 = tuple[int, int]
